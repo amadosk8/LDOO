@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4/09/2018, 11:34:50 PM
+    Author     : Amado Rios
+*/
+body{
+    background: greenyellow;  
+    color: black;
+    font-family: "Arial";
+    
+}
+
+table{
+    
+   background: yellowgreen;
+   color: black;
+   font-family: "Arial";
+   
+}
+
+.boton1{
+    background: #4CAF50;
+    color: black;
+   
+    
+}
+
+.boton2{
+    background: #f44336;
+    color: black;
+    
+    
+}
+
+.boton3{
+    background:  #008CBA;
+    color: black;
+
+    
+}
+
+p{
+    background: white; 
+    color: blue;
+    font-family: "Arial";
+        
+}
